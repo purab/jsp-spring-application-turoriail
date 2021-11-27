@@ -1,4 +1,4 @@
-package webapp;
+package in.purabtech.jee;
 
 import java.io.IOException;
 
