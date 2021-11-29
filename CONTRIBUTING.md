@@ -1,4 +1,4 @@
-# Contributing to Book Management System
+# Contributing to jsp-spring-application-tutorial
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 

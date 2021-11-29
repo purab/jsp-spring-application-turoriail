@@ -4,7 +4,7 @@ pipeline {
     buildDiscarder(logRotator(numToKeepStr: '5'))
   }
   environment {
-   APP_NAME = "h2-hibernate-example"
+   APP_NAME = "jsp-spring-application-tutorial"
    //Note: use Multibranch pipeline and just put your git repo url
     // Put your credentails jenkins - http://localhost:9090/credentials/ - id=dockerhub-cred
     DOCKERHUB_CREDENTIALS = credentials('dockerhub-cred')
